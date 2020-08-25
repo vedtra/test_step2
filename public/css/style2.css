@@ -1,0 +1,224 @@
+
+
+body {
+    font-family: Roboto;
+    font-size: 14px ;
+}
+
+.btn2 {
+    border-radius: 30px 30px 30px 30px;
+    padding: 0px;
+    height: 40px;
+    padding-left:5px;
+    border: #ffffff;
+}
+
+.btn1 {
+    border-radius: 30px 30px 30px 30px;
+}
+
+.btn3 {
+    background: #22a1f0; 
+    border-width: 5px;
+    padding: 0px;
+    height: 40px;
+    width: 110px;
+    border-radius: 30px 30px 30px 30px; 
+    border-color:white;
+    color: white;
+    
+}
+
+.btn4 {
+    background: #007aff;; 
+    padding: 0px;
+    height: 40px;
+    width: 48%;
+    border-radius: 30px 30px 30px 30px; 
+    color: white;
+    
+}
+
+.btn5 {
+    background: white;
+    padding: 0px;
+    height: 40px;
+    width: 15%;
+    border-width: 1px;
+    border-color: #2d2d2d;
+    border-radius: 30px 30px 30px 30px; 
+    color: #333
+}
+
+.btn6 {
+    background: #d7d7d7;; 
+    padding: 0px;
+    height: 5px;
+    width: 30%;
+    border-radius: 30px 30px 30px 30px; 
+}
+
+.btn7 {
+    background: #d7d7d7;; 
+    padding: 0px;
+    height: 5px;
+    width: 10%;
+    border-radius: 30px 30px 30px 30px; 
+}
+
+.btn8 {
+    background: #f2f2f2;; 
+    padding: 0px;
+    height: 40px;
+    width: 46%;
+    border-width: 2px;
+    border-radius: 30px 30px 30px 30px; 
+    border-color: #2d2d2d;
+    
+}
+
+.footer-custom p {
+    color: #8d8d8d !important;
+}
+
+.footer-custom a {
+    color: #d7d7d7;
+}
+
+.footer-custom p a {
+    color: #d7d7d7;
+}
+
+.footer-custom li a {
+    color: #d7d7d7;
+}
+
+.social-inner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    padding: 23px;
+    font: 900 13px/1 "Lato", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    text-transform: uppercase;
+    color: rgba(255, 255, 255, 0.5);
+}
+.social-container {
+    border-top: 2px solid #2d2d2d;
+}
+
+.container {
+    border-bottom: 1px;
+}
+.container h1 {
+    font-size: 30px;
+    font-family: Montserrat-bold, sans-serif;
+    font-weight: 700;
+    color: #59595c;
+}
+
+.container .row a {
+    font-size: 12px;
+    font-family: Roboto, sans-serif;
+    font-weight: 300;
+    color: #59595c;
+}
+
+.container h2 {
+    font-size: 28px;
+    margin-top: 5px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    color: #59595c;
+}
+
+.container p {
+    font-size: 18px;
+    margin-top: 5px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    color: #59595c;
+}
+
+.row-custom {
+    padding-top: 40px;
+}
+ 
+ /* Remove the navbar's default margin-bottom and rounded borders */
+ .navbar {
+    margin-bottom: 0;
+    border-radius: 0;
+    border-top: 0;
+}
+
+.navbar-custom {
+    background-color: #ffffff;
+    
+}
+
+.box-custom {
+    display: block;
+    background: #22a1f0;
+    height: 130px;
+    padding: 40px;
+    font-size: 32px;
+    font-family: Montserrat, sans-serif;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.box-custom2 {
+    margin-top: 0;
+    display: block;
+    background: #f7f7f7;
+    height: 50px;
+    font-weight: 300;
+}
+
+/* Add a gray background color and some padding to the footer */
+footer {
+    background-color: #333;
+    padding: 25px;
+    font-size: 12px;
+}
+
+
+  .ribbon {
+    position: absolute;
+    width: 26px;
+    height: 22px;
+    background: #3981CB;
+    text-align: center;
+    border-radius: 3px 3px 0 0;
+    border: solid 0px #3981CB;
+    margin-right: 5px;
+  }
+
+  .ribbon i {
+      margin-top: 4px;
+      color: #f2f2f2
+  }
+  .ribbon:after,
+  .ribbon:before {
+    content: '';
+    position: absolute;
+    height: 5;
+    width: 20;
+    border-style: solid;
+    border-width: 0;
+  }
+  .ribbon:after {
+    border-width: 0px 13px 12px 13px;
+    border-color: transparent #3981CB;
+    bottom: -12px;
+    left: 0;
+    z-index: 1;
+  }
+  
+  .ribbon a {
+    line-height: 22px;
+    color: #3981CB;
+    text-decoration: none;
+    font-size: 18px;
+  }
+ 
