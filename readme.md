@@ -4,4 +4,4 @@
 
 -set env
 
--use database: test_niagahoster
+-use database: test_niagahoster.sql
