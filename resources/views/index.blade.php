@@ -35,9 +35,9 @@
                 </div>
                 <div class="collapse navbar-collapse navbar-right">
                     <ul class="nav navbar-nav ">
-                        <li><a href="#"><i class="glyphicon glyphicon-earphone "></i> Projects</a></li>
+                        <li><a href="#"><i class="glyphicon glyphicon-earphone "></i> 0274-5305505</a></li>
                         <li><a href="#"><i class="material-icons" style="font-size:18px">forum</i> Live Chat</a></li>
-                        <li><a href="#"><i class=" glyphicon glyphicon-user "></i> Member Area</a></li>
+                        <li><a href="#"><i class="glyphicon glyphicon-user circle-icon" style="color:white;padding:3px;background: #4C4C4C; border-radius: 50%;"></i> Member Area</a></li>
                     </ul>
                 </div>
             </div>
@@ -94,9 +94,9 @@
                 <div class="row row-custom text-center">
                     <div class="col-sm-1"></div>
                     <div class="col-sm-9" style="margin-bottom: 40px;">
-                        <div class="col-sm-4"><img class="mt-100" src="svg/icon PHP Hosting_zendguard.svg" class="img-responsive" style="width:50%; margin-bottom: 20px; margin-top: 50px;" alt="image"><p>PHP Zend Guard Loader</p></div>
-                        <div class="col-sm-4"><img class="mt-100" src="svg/icon PHP Hosting_composer.svg" class="img-responsive" style="width:30%;" alt="image"><p>PHP Composer</p></div>
-                        <div class="col-sm-4"><img class="mt-100" src="svg/icon PHP Hosting_ioncube.svg" class="img-responsive" style="width:50%; margin-bottom: 20px; margin-top: 50px;" alt="image"><p>PHP IonCube Loader</p></div>
+                        <div class="col-sm-4"><img class="mt-100" src="images/zenguard.png" class="img-responsive" style="width:50%; margin-bottom: 20px; margin-top: 50px;" alt="image"><p>PHP Zend Guard Loader</p></div>
+                        <div class="col-sm-4"><img class="mt-100" src="images/composer.png" class="img-responsive" style="width:30%;" alt="image"><p>PHP Composer</p></div>
+                        <div class="col-sm-4"><img class="mt-100" src="images/ioncube.png" class="img-responsive" style="width:50%; margin-bottom: 20px; margin-top: 50px;" alt="image"><p>PHP IonCube Loader</p></div>
                     </div>
                     <div class="col-sm-12 text-center" style="margin-bottom: 40px;">
                         <h3 style="font-family: Montserrat; font-color: #333; font-size: 22px;"><b>Paket Hosting Singapura yang Tepat</b></h3>
@@ -260,7 +260,7 @@
                                 <i class="fa fa-check-circle" style="color: green;"></i> Tersedia <b>Composer</b> dan <b>SSH</b> untuk menginstal packages pilihan Anda.<br><br>
                                 Nb. Composer dan SSH hanya tersedia pada paket Personal dan Bisnis.<br><br>
                             </p>
-                            <button class="btn btn4"><b>Pilih Hosting Anda</b></button>
+                            <button class="btn btn4"><b>Pilih Hoting Anda</b></button>
                         </div>
                         <div class="col-sm-6">
                             <img src="svg/illustration banner support laravel hosting.svg" alt="">
@@ -353,13 +353,13 @@
                     </div><br><br><br>
                     <div class="row ">
                         <div class="col-sm-6">
-                            <h2>Linux Hosting yang Stabil dengan Technology LIVE</h2>
+                            <h2>Linux Hosting yang Stabil dengan Technology LVE</h2>
                             <p style="font-family: Roboto; font-size:14px;">SuperMicro <b>Intel Xeon 24-Cores</b> server dengan RAM <b>128 GB</b> dan
                                 technology <b>LVE CLoudLinux</b> untuk stabilitas server Anda. Dilengkapi dengan <b>SSD</b> 
                                 untu kecepatan <b>MySQL</b> dan caching, Apache load balancer berbasis LiteSpeed Technologies,
                                 <b>CageFS</b> security, <b>Raid-10</b> protection dan auto backup untuk keamanan website PHP Anda.
                             </p><br>
-                            <button class="btn btn4"><b>Pilih Hosting Anda</b></button>
+                            <button class="btn btn4"><b>Selengkapnya</b></button>
                         </div>
                         <div class="col-sm-6">
                             <img class="mt-100" src="images/Image support.png" class="img-responsive" style="width:100%" alt="image">
@@ -390,12 +390,12 @@
                 <div class="col-md-12 col-ms-12 col-sm-12 col-xxs-12">
                     <div class="row">    
                         <div class="col-md-9 col-ms-9 col-sm-12 no-padding col-xxs-12 border-right mt-10" style="font-size: 32px; border-color: #37adf8;">
-                            Perlu <b>BANTUAN?</b> Hubungi Kami: <b>0274 - 2885822</b>
+                            Perlu <b>BANTUAN?</b> Hubungi Kami: <b>0274 - 5305505</b>
                         </div>
                         <div class="col-md-3 col-ms-3 col-sm-4 col-xs-4 left-border-super-soft col-xxs-12 center-text hidden-md hidden-sm hidden-xs hidden-xxs">
                             <div class="input-group-btn">
                                 <button class="btn btn-info" style="background: #22a1f0; border-radius: 30px 30px 30px 30px; 
-                                border-color:white; margin-top:5px; border-width: 2px;" type="button"><i class=" glyphicon glyphicon-comment "></i> Berlangganan</button>
+                                border-color:white; margin-top:5px; border-width: 2px;" type="button"><i class=" glyphicon glyphicon-comment "></i> Live Chat</button>
                             </div>
                         </div>
                     </div>
@@ -414,7 +414,7 @@
                                         <a>Telp: 0274-2885822</a><br>
                                         <a href="">WA: 0895395186038</a><br>
                                         <a>Senin - Minggu <br> 24 Jam Non Stop<br><br> </a>
-                                        <a>Jl. Palagan Tentara Pelajar<br> No 81 Jongkang, Sariharjo, Ngaglik, Sleman<br> Daerah Istimewa Yogyakarta <br>55581</a>
+                                        <a>Jl. Selokan Mataram Monjali<br>Karangjati MT I/304<br> Sinduandi, Mlati, Sleman <br>Yogyakarta 55284</a>
                                     </div>
                                 </div>
                             </div>
@@ -499,19 +499,15 @@
                             <div class="col-ms-12 col-sm-12 col-xs-12">
                                 <p class="font-r-bold title"><b>PEMBAYARAN</b></p>
                                 <div class="row" style="padding-left:15px;">
-                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/logo-bni-bordered.svg" height="35" alt="" class="mr-1">
                                     <img src="https://www.niagahoster.co.id/assets/images/new_design/logo-bca-bordered.svg" height="35" alt="" class="mr-1">
-                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/bri.svg" height="35" alt="" class="mr-1">
                                     <img src="https://www.niagahoster.co.id/assets/images/new_design/mandiriclickpay.svg" height="35" alt="" class="mr-1">
-                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/permatabank.svg" height="35" alt="" class="mr-1">
-                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/atmbersama.svg" height="35" alt="" class="mr-1">
-                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/prima.svg" height="35" alt="" class="mr-1">
-                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/alto.svg" height="35" alt="" class="mr-1">
+                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/logo-bni-bordered.svg" height="35" alt="" class="mr-1">
                                     <img src="https://www.niagahoster.co.id/assets/images/new_design/visa.svg" height="35" alt="" class="mr-1">
                                     <img src="https://www.niagahoster.co.id/assets/images/new_design/mastercard.svg" height="35" alt="" class="mr-1">
-                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/indomaret.svg" height="35" alt="" class="mr-1">
-                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/paypal.svg" height="35" alt="" class="mr-1">
-                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/logo-gopay.svg" height="35" alt="" class="mr-1">
+                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/atmbersama.svg" height="35" alt="" class="mr-1">
+                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/permatabank.svg" height="35" alt="" class="mr-1">
+                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/prima.svg" height="35" alt="" class="mr-1">
+                                    <img src="https://www.niagahoster.co.id/assets/images/new_design/alto.svg" height="35" alt="" class="mr-1">
                                 </div>
                                 <div class="list-group list-group-horizontal-sm mt-2"> 
                                     <p style="color:#777; font-size: 14px;">Aktivasi instan dengan e-Payment. Hosting dan domain langsung aktif!</p>
